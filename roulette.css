@@ -1,0 +1,87 @@
+
+#ligne{
+  text-align: center;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-top: 20px;
+  color: crimson;
+}
+#solde{
+  height: 40px;
+  font-size: 39px;
+  width: 100px;
+  text-align: end;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: crimson;
+}
+#video{
+  width: 50%;
+  float:right;
+  margin-bottom: 90px;
+}
+.img{
+  width: 24.5%;
+  height: 250px;
+}
+
+#bienvenu{
+  font-size: 50px;
+  text-align: center;
+  font-family: cursive;
+}
+#jeu{
+  float: left;
+  width: 50%;
+}
+#jackpot{
+  color: crimson;
+  font-size:58px;
+}
+#btn{
+  width: 40%;
+  margin-left: 30%;
+}
+#btn:hover{
+  
+  transform: scale(1.3);
+}
+#zone{
+  background: url("./images/bg.jpg");
+  width: 58%;
+  border: crimson 2px solid;
+  border-radius: 15px;
+  height: 400px;
+  margin: 0 auto;
+}
+.input{
+ width: 120px;
+ height: 35px;
+ background: rgba(0, 0, 0, 0.8);
+ color: white;
+ font-size: 30px;
+ text-align: end;
+}
+#form{
+  margin-top: 15%;
+  text-align:center;
+  font-size: 40px;
+  color: aliceblue;
+}
+#btnGo{
+  width: 200px;
+  font-size: 30px;
+  border-radius: 15px;
+  border: 2px crimson solid;
+  background: rgba(0, 0, 0, 0.8); 
+  color: #fff;
+  margin-top: 50px;
+}
+#btnGo:hover{
+  
+  font-size: 50px;
+  border-radius: 15px;
+  
+  background: crimson; 
+  color: black;
+  
+}
